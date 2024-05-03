@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "CF-to-ZIF")(type "KiCad")(uri "${KIPRJMOD}/Libraries/CF-to-ZIF.pretty")(options "")(descr ""))
+)
